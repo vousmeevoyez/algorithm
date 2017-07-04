@@ -1,3 +1,6 @@
+"""
+Binary search
+"""
 import random
 import time
 
